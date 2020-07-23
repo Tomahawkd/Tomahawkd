@@ -5,3 +5,5 @@
 - Useful tools developed from projects
 
 - Programming ideas
+
+Contact: tomahawkd00@outlook.com
